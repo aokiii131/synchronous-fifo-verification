@@ -1,0 +1,119 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Project/Summer_Project/synchronous-fifo-verification
+Yfifo_if
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1785039551
+!i10b 1
+!s100 ;hm5f<5PUz8Qj^jSOE:[K1
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IQ_1D`ed9V[7dJ<_?i_Tf>1
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1784707092
+8tb/fifo_if.sv
+Ftb/fifo_if.sv
+!i122 16
+Z5 L0 5 0
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1785039551.000000
+!s107 tb/fifo_if.sv|
+!s90 -reportprogress|300|-sv|tb/fifo_if.sv|
+!i113 1
+o-sv
+Z8 tCvgOpt 0
+vfifo_tb
+R1
+DXx4 work 24 fifo_transaction_sv_unit 0 22 NR2^cm^a<E7KZ4Q6BeVcL3
+R2
+R4
+r1
+!s85 0
+!i10b 1
+!s100 KNj=;amYAdSI;O6ibYQ9a0
+IAG_@_IM8OSdG9d^6ZFI0[0
+!s105 fifo_transaction_sv_unit
+S1
+R0
+Z9 w1785039544
+Z10 8tb/fifo_tb.sv
+Z11 Ftb/fifo_tb.sv
+!i122 17
+L0 3 256
+R6
+31
+R7
+!s107 tb/fifo_tb.sv|tb/fifo_scoreboard.sv|tb/fifo_monitor.sv|tb/fifo_transaction.sv|
+Z12 !s90 -reportprogress|300|-sv|-mfcu|tb/fifo_transaction.sv|tb/fifo_monitor.sv|tb/fifo_scoreboard.sv|tb/fifo_tb.sv|
+!i113 1
+Z13 o-sv -mfcu
+R8
+Xfifo_transaction_sv_unit
+!s115 fifo_if
+R1
+R2
+VNR2^cm^a<E7KZ4Q6BeVcL3
+r1
+!s85 0
+!i10b 1
+!s100 RS8iDP=k[91iCa8g>W=fd0
+INR2^cm^a<E7KZ4Q6BeVcL3
+!i103 1
+S1
+R0
+R9
+8tb/fifo_transaction.sv
+Ftb/fifo_transaction.sv
+8tb/fifo_monitor.sv
+Ftb/fifo_monitor.sv
+8tb/fifo_scoreboard.sv
+Ftb/fifo_scoreboard.sv
+R10
+R11
+!i122 17
+R5
+R6
+31
+R7
+Z14 !s107 tb/fifo_tb.sv|tb/fifo_scoreboard.sv|tb/fifo_monitor.sv|tb/fifo_transaction.sv|
+R12
+!i113 1
+R13
+R8
+vsync_fifo
+R1
+R2
+!i10b 1
+!s100 >eAI0LmOCm1:Z6bnVTfO?1
+R3
+I[M0cQeanoiUl7WJX[F9jL1
+R4
+S1
+R0
+w1784707233
+8rtl/sync_fifo.sv
+Frtl/sync_fifo.sv
+!i122 15
+L0 2 63
+R6
+r1
+!s85 0
+31
+R7
+!s107 rtl/sync_fifo.sv|
+!s90 -reportprogress|300|-sv|rtl/sync_fifo.sv|
+!i113 1
+o-sv
+R8
