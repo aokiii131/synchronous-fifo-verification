@@ -1,0 +1,28 @@
+# ==========================================
+# ModelSim / QuestaSim generated files
+# ==========================================
+work/
+_temp/
+modelsim.ini
+transcript
+*.wlf
+wlft*
+
+# ==========================================
+# LaTeX temporary/build files
+# ==========================================
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# ==========================================
+# OS / Editor temporary files
+# ==========================================
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
